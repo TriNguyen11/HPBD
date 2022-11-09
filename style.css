@@ -2,7 +2,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #2c3e50
+	background:black;
 }
 
 .box {
@@ -60,4 +60,20 @@ body {
 	100% {
 		transform: scale(1);
 	}
+}
+div {
+
+	color: white;
+	font-weight: bold;
+	font-size: 20;
+
+}
+span{
+	color:red
+}
+.box{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
 }
